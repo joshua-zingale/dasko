@@ -1,4 +1,20 @@
 
+Dasko seeks to meet the different needs of the pedagogical ecosystem.
+The needs in view are
+
+- Creating educational content
+    - writing assignments, drafting readings, setting course policies, coding autograders
+- Serving educational content
+    - REST API, enforcing policies (who can read/write to what)
+- Consuming educational content
+    - (typically students) reading materials, completing assignments, viewing grades
+- Grading submissions
+    - manual grading, autograding, splitting grading among a larger team (like of TAs or Graders)
+- Administration of an ongoing course
+    - Adding/removing students from a course, granting extensions
+
+
+
 # Proposed Structure
 
 
